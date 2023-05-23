@@ -1,0 +1,172 @@
+
+---Downloaded files---
+The import files for: Austin Demo were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = https://pshome97s.local.com:444
+Data file = D:\xampp7\www\pshome97s.local.com/wp-content/uploads/2023/05/demo-content-import-file_2023-05-09__08-01-10.xml
+Widget file = D:\xampp7\www\pshome97s.local.com/wp-content/uploads/2023/05/demo-widgets-import-file_2023-05-09__08-01-10.json
+Customizer file = not defined!
+Redux files:
+wpresidence_admin -> D:\xampp7\www\pshome97s.local.com/wp-content/uploads/2023/05/demo-redux-import-file_0-2023-05-09__08-01-10.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "video.svg" (Media)
+[ERROR] Failed to import "electricity.svg" (Media)
+[ERROR] Failed to import "realestate.svg" (Media)
+[ERROR] Failed to import "complete-shake.svg" (Media)
+[ERROR] Failed to import "appraisal.svg" (Media)
+
+
+---Importing widgets---
+Primary Widget Area : 
+
+Wp Estate: Multiple currency widget - Change Currency - Imported
+Wp Estate: Measurement Unit Widget - Change Measurement - Imported
+Wp Estate: Advanced Search - Advanced Search - Imported
+Wp Estate: Latest Listing  - Latest Listings - Imported
+
+Secondary Widget Area : 
+
+Wp Estate: Advanced Search - Advanced Search - Imported
+
+First Footer Widget Area : 
+
+Wp Estate: Contact - Contact - Imported
+
+Second Footer Widget Area : 
+
+Text - Company - Imported
+
+Third Footer Widget Area : 
+
+Text - Quick links - Imported
+
+Fourth Footer Widget Area : 
+
+Custom HTML - About us - Imported
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Left Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Top Bar Right Widget Area : 
+
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+
+Sidebar Menu Widget Area - Before Menu : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Recent Posts - News - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Search - No Title - Imported
+Text - No Title - Imported
+Custom HTML - No Title - Imported
+Custom HTML - No Title - Imported
+
+Sidebar Menu Widget Area - After Menu : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Image - No Title - Imported
+Text - No Title - Imported
+Text - WP RESIDENCE - Imported
+Text - WP RESIDENCE - Imported
+
+Header4 Widget Area : 
+
+Wp Estate: Login &amp; Register - No Title - Imported
+Wp Estate Twitter Widget - Latest Tweets - Imported
+
+Dashboard Top Bar Left Widget Area : 
+
+Text - No Title - Imported
+
+Dashboard Top Bar Right Widget Area : 
+
+Wp Estate: Social Links - No Title - Imported
+
+Splash Page Bottom Right Widget Area : 
+
+Text - No Title - Imported
+
+Splash Page Bottom Left Widget Area : 
+
+Wp Estate: Social Links - Social Links: - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: wpresidence_admin finished successfully!
+
+---ocdi/after_import---
+

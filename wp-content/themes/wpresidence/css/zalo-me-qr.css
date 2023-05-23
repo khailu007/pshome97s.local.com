@@ -1,0 +1,62 @@
+/*================================================================================
+    Item Name: CMS WEBSITE 3T
+    Author: ALAN HONG
+    Author URL: https://3tsoftware.vn
+    Be the best in the world
+================================================================================
+
+NOTE:
+------
+The unauthorized reproduction or distribution of a copyrighted work is illegal. Criminal copyright infringement, including infringement without monetary gain, is investigated by the GOV and is punishable by up to many years in federal prison and a fine of many thousand $.  */
+/*
+|-------------------------------------------------------
+| ZALO ME QR
+|-------------------------------------------------------
+*/
+.zalo-qr {
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.zalo-qr button {
+    width: 100%;
+}
+
+@media screen and (min-width:768px) 
+{
+    .zalo-qr {
+        width: 200px;
+        text-align: left;
+        padding-top: 0;
+    }
+}
+
+.zalo-qr-desc {
+    font-size: 0.75rem;
+    line-height: 16px;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.zalo-qr-image {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.zalo-qr-image a {
+    width: 200px!important;
+    height: 200px!important;
+}
+
+.zalo-qr-image a img {
+    width: 100%!important;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, .06);
+}
